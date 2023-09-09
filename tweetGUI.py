@@ -131,3 +131,5 @@ frame.rowconfigure(0, weight=1)
 frame.rowconfigure(6, weight=1)
 
 app.mainloop()
+
+print("Maqbool")
